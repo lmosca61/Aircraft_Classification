@@ -97,12 +97,6 @@ Parts 2A and 2B use different label-smoothing settings, so their training and va
 
 Open [`aircraft-classification.ipynb`](aircraft-classification.ipynb) in Kaggle or another Jupyter environment with a CUDA-enabled GPU.
 
-Install the Python dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
 Internet access is needed for the initial dataset and pretrained-weight downloads.
 
 ### Staged execution
