@@ -95,7 +95,7 @@ Parts 2A and 2B use different label-smoothing settings, so their training and va
 
 ## Running the Notebook
 
-Open [`assignment_module_two.ipynb`](assignment_module_two.ipynb) in Kaggle or another Jupyter environment with a CUDA-enabled GPU.
+Open [`aircraft-classification.ipynb`](aircraft-classification.ipynb) in Kaggle or another Jupyter environment with a CUDA-enabled GPU.
 
 Install the Python dependencies:
 
