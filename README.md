@@ -127,13 +127,6 @@ On Kaggle, attach the preceding stage’s notebook output as an input. The code 
 
 **Stage 3 requires the Stage 2 checkpoint and still trains both ResNet-18 configurations.** These checkpoints support hand-off between completed stages, not recovery from an interrupted training epoch.
 
-## Experimental Scope
-
-Results are from individual runs, not averages across multiple seeds. Small differences between configurations should therefore be interpreted cautiously.
-
-Part 2B changes several settings together: its improvement supports the combined recipe, but does not isolate the contribution of each change.
-
-Bounding-box annotations are used during both training and evaluation. The reported results therefore describe classification with annotated aircraft localization.
 
 ## References
 
